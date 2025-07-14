@@ -6,6 +6,4 @@ This is a basic how-to/DIY guide to understanding how a basic home computer/desk
 
 ## Contact
 
-For Questions or Comments on how to improve this guide, go ahead email here
-
-screwboi25@gmail.com
+For questions or suggestions on how to improve this guide, please send them here screwboi25@gmail.com
