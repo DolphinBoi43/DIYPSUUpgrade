@@ -15,8 +15,8 @@
 -  How do you want to do the job [quick and dirty]() or [nice and clean]()
 
 ### Footnotes
-[^1]: [Click here](https://www.mattmillman.com/info/crimpconnectors/pc-modding-crimp-connectors-and-tools/#terms) for a well done guide to understanding PSU cables, connectors and how to make your own
+[^1]: [Click here](https://www.mattmillman.com/info/crimpconnectors/pc-modding-crimp-connectors-and-tools/#terms) for a well done guide to understanding PSU cables, connectors and how to make your own.
 
-[^2]: [PCGAMER Article](http://pcgamer.com/how-to-choose-a-power-supply/) A good rule of thumb is to get a little more than you need, usually about 50W (or 100W to be extra safe) more than the system requirements, and fi 
+[^2]: [PCGAMER Article](http://pcgamer.com/how-to-choose-a-power-supply/) A good rule of thumb is to get a little more than you need, usually about 50W (or 100W to be extra safe) more than the system requirements.
 
-[^3]: [Click Here](3-types_of_psus.md) for more information about figuring out your PSU's pinout
+[^3]: [Click Here](3-types_of_psus.md) for more information about figuring out your PSU's pinout.
