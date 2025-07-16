@@ -1,0 +1,2 @@
+# Figuring Out the Pinout
+Using your multimeter and digital decoder/oscillascope, map the pinout of your PSU from the original computer if its not a standard PSU. If it is or found an adapter cable you trust, go ahead and skip to [Test System](10-test_sys.md). Otherwise continue to [Making PSU cables](8-make_psuc.md) and get ready to solder and crimp wires and tiny connects.
