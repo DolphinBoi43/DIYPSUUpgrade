@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [DIY PSU Upgrade Guide]
+title: "DIY PSU Upgrade Guide"
 description: [To inform and maybe help someone with pockets low on dough as well]
