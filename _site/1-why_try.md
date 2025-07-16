@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Why Try
+---
+
 # Who is This Guide For?
 ## Scenario
 You managed to get a used computer from work or school or family member. Said computer has a nice enough CPU from a few ago, and there are other upgrades that can be easily made or install such as storage, RAM, and other Components. With these added components though, the power supply (or PSU) is now no longer sufficient in running all the components. But since this computer is from HP or Dell or some other big name in the tech space, the PSU is of propriety design, meaning you can't just get another PSU from a retailer and get it to work. Sure there are listing on eBay that say they will work, but most of the time the listing is false or inaccurate and you now have two PSU that won't work. This guide is here to help folks that might not know better but are willing to try alternatives and extend the life and capabilities of a system that would otherwise get thrown out.
