@@ -9,6 +9,12 @@ This is a basic how-to/DIY guide to understanding how a basic home computer/desk
 - [How to get started](4-setup.md)
 - [Resources Used](7-resources.md)
 
+
+
 ## Contact
 
+<<<<<<< HEAD
+For Questions or Comments on how to improve this guide, please send them here
+=======
 For questions or suggestions on how to improve this guide, please send them here: screwboi25@gmail.com
+>>>>>>> 1275d0264f74cfd7e9167332556b102db39ec6fb
