@@ -4,7 +4,7 @@ You managed to get a used computer from work or school or family member. Said co
 
 ## Two Ways to Do it
 As someone studying Electrical Engineering, the three most common principles to consider when creating solutions to problems is
-**Cost, Performance, and Implementation**. And so, I have two ways that I explored and will share that will helpfully be of help to folks.
+**Cost, Performance, and Implementation**. And so, I have two ways that I explored and will share what will hopefully be of help to some folks.
 ## [Quick & Dirty](quick_and_dirty.md)
 ### Low Cost, Easy Implementation, Performance may vary
 This method will result in a easy solution, that will be (depending on how much time you want to retrofit some parts) not so nice to look at. Also since this method relys on two PSU's the risk for system damage is greater if one does not take the nessecary precautions and circuit design.
