@@ -7,9 +7,11 @@ The reason being (depending on where you are in the world) The wall outlet near 
 
 ![PSU Cables](PSU_Cables.jpg)
 
-The exact wires and voltages that are on them are all different, so it is super important that you know what make diagrams or schematics to keep track of everything.
+The exact wires and voltages that are on them are all different, so it is super important that you if you attempt any kind of PSU or PSU Cable modding that you create diagrams or schematics to keep track of everything.
 
-*Pro-tip : If you can, get a old but working PSU and just get used to figuring out how to use a multimeter on it, and takes notes* 
+*Pro-tip : If you can, get a old but working PSU and just get used to figuring out how to use a multimeter on it, and takes notes like I did here*
+
+![Apevia PSU](Apevia_multimeter.jpg)
 
 And Since theare 
 
