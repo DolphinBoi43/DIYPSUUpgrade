@@ -7,6 +7,8 @@ This is a basic how-to/DIY guide to understanding how a basic home computer/desk
 - [How PSUs Works](2-psu_4_dummy.md)
 - [Types of PSUs](3-types_of_psus.md)
 - [How to get started](4-setup.md)
+- [Best way to do this DIY](5-clean_version.md)
+- [A way to do this DIY](6-quick_and_dirty.md)
 - [Resources Used](7-resources.md)
 
 ## Contact
