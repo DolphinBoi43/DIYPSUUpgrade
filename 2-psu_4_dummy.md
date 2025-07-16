@@ -13,6 +13,12 @@ The exact voltages on these wire are all different, so it is super important tha
 
 ![Apevia PSU](Apevia_Multimeter.jpg)
 
-There is a multitude of different forms of PSUs, and getting to know the ones you use will be important if you want to do some modifications to it. Some helpful software to use would be [draw.io](https://app.diagrams.net/) that is great for simple diagrams, or if you aspire to be/are an electrical guy [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) is a great tool for making circuit diagrams.
+There is a multitude of different forms of PSUs, and getting to know the ones you use will be important if you want to do some modifications to it. Some helpful software to use would be [draw.io](https://app.diagrams.net/) that is great for simple diagrams, or if you aspire to be/are an electrical guy [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) is a great tool for making circuit diagrams. And good pen and paper works just as well if not better.
 
-[PSU Form Factors](types_of_psus.md)
+![LTspice example](LTspice_ex.png)
+*LTspice Example*
+
+![drawio example](drawio_ex.png)    
+*draw.io Example*
+
+For more [PSU Form Factors](types_of_psus.md) info, click on the link
